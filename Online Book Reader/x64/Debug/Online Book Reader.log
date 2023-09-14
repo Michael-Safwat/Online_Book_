@@ -1,0 +1,5 @@
+﻿  books_manager.cpp
+E:\Programming\C++ course\Online Book Reader\Online Book Reader\books_manager.cpp(108,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Programming\C++ course\Online Book Reader\Online Book Reader\books_manager.cpp(118,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Programming\C++ course\Online Book Reader\Online Book Reader\books_manager.cpp(138,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Online Book Reader.vcxproj -> E:\Programming\C++ course\Online Book Reader\x64\Debug\Online Book Reader.exe
